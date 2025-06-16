@@ -1,0 +1,12 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoogleAIStudioClient</string>
+    <string name="chat_input_hint">Enter your message...</string>
+    <string name="send_button_text">Send</string>
+    <string name="image_generation_prompt_hint">Image description...</string>
+    <string name="generate_image_button_text">Generate Image</string>
+    <string name="speak_button_text">Speak</string>
+    <string name="system_prompt_hint">System prompt (optional)</string>
+</resources>
+

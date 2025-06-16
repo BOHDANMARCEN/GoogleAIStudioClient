@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Google AI Studio Client</string>
+    <string name="system_prompt_hint">Enter system prompt</string>
+    <string name="chat_input_hint">Type your message</string>
+    <string name="send_button_text">Send</string>
+    <string name="image_generation_prompt_hint">Enter image prompt</string>
+    <string name="generate_image_button_text">Generate Image</string>
+    <string name="speak_button_text">Speak</string>
+    <string name="initialize_chat_button_text">Initialize Chat</string>
+    <string name="api_key_hint">Enter API Key</string>
+</resources>
+
